@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @drook207
-- 👀 I’m interested in embdedded systems and audio programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on VST audio plugins or similar
+- 👀 I’m interested in all kind of software
+- Mainly C++ developer
+- Currently working a lot with Qt
+- Linux Enthusiast 
 - 📫 How to reach me drook207@gmail.com
 
 <!---
